@@ -1,4 +1,4 @@
-package top.oranges.basecase;
+package top.oranges;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
